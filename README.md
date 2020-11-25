@@ -13,4 +13,12 @@
 ### 3.1选择左侧“Create RectBox”
 ### 3.2在原图上找到汽车位置，并在其左上和右下角画框，输入标签
 ### 3.3保存到指定路径，最后save
+    LabelImg标注工具的快捷键：
+        Ctrl + s   | 保存 
+        w          | 创建一个矩形  
+        d          | 下一张图片 
+        a          | 上一张图片
 ![image](https://github.com/TuHaiqing/night-dataset/blob/main/pictures/yololabel2.png)
+
+标注后在目标文件夹中生成和标注图片同名的xml文件，例如“00096_323.xml”
+![image](https://github.com/TuHaiqing/night-dataset/blob/main/pictures/xmllabel.png)
